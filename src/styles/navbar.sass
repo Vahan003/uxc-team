@@ -1,0 +1,22 @@
+$text-color: #780202
+.navbar
+    display: flex
+    .nav
+        padding: 1rem
+        cursor: pointer
+        font-weight: 600
+    .nav.active
+        color: $text-color
+    .nav-icones
+        display: flex
+        padding: 1rem 
+        .market, .search
+            padding: 0 1rem 0 1rem
+            cursor: pointer
+            .market-svg, .search-svg
+                width: 2.5rem
+                height: 1.8rem
+                fill: #000
+        .market.active, .search.active
+            .market-svg, .search-svg
+                fill: $text-color

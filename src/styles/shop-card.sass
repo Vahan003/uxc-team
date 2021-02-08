@@ -1,0 +1,63 @@
+$text-color: #780202
+$data-background: #EEEEEE
+.shop-card
+    position: relative
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    padding: 0 0 5rem 0
+    margin: 0 0.55rem 5rem 0.55rem
+    transition: 0.1s ease all
+    max-height: 25.35rem
+    .shop-card-image
+        width: 17.4rem
+        z-index: 1
+        transition: 0.1s ease all
+    .card-data-top
+        position: absolute
+        width: 15.5rem
+        height: 1.9rem
+        top: 0%
+        background-color: $data-background
+    .card-data
+        position: absolute
+        bottom: 0%
+        display: flex
+        flex-direction: column
+        align-items: center
+        background-color: $data-background
+        width: 15.5rem
+        height: 6.25rem
+        z-index: 2
+        .name
+            font-size: 1.125rem
+            padding: 0.5rem
+        .price
+            font-size: 1.5rem
+            color: $text-color
+        .add-button
+            position: absolute
+            bottom: -15%
+            display: flex
+            background-color: $text-color
+            color: #fff
+            font-size: 0.875rem
+            padding: 0.6rem 2.25rem
+            cursor: pointer
+            .market-small-svg
+                width: 1rem
+                height: 0.75rem
+
+.shop-card:hover 
+    padding: 1.8rem 0 6.25rem 0
+    margin: 0
+    max-height: 29.7rem
+    transform: translate(0, -13%)
+    .shop-card-image
+        width: 18.5rem
+        z-index: 2
+    .card-data-top
+        z-index: 1
+    .card-data
+        z-index: 1
