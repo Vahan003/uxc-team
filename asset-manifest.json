@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/uxc-team/static/css/main.fd918add.chunk.css",
+    "main.js": "/uxc-team/static/js/main.e4e7c0e8.chunk.js",
+    "main.js.map": "/uxc-team/static/js/main.e4e7c0e8.chunk.js.map",
+    "runtime-main.js": "/uxc-team/static/js/runtime-main.7c5d13b6.js",
+    "runtime-main.js.map": "/uxc-team/static/js/runtime-main.7c5d13b6.js.map",
+    "static/js/2.ce2e1312.chunk.js": "/uxc-team/static/js/2.ce2e1312.chunk.js",
+    "static/js/2.ce2e1312.chunk.js.map": "/uxc-team/static/js/2.ce2e1312.chunk.js.map",
+    "index.html": "/uxc-team/index.html",
+    "static/css/main.fd918add.chunk.css.map": "/uxc-team/static/css/main.fd918add.chunk.css.map",
+    "static/js/2.ce2e1312.chunk.js.LICENSE.txt": "/uxc-team/static/js/2.ce2e1312.chunk.js.LICENSE.txt",
+    "static/media/Line 5.1dd8cff8.svg": "/uxc-team/static/media/Line 5.1dd8cff8.svg",
+    "static/media/Line 6.27701b98.svg": "/uxc-team/static/media/Line 6.27701b98.svg",
+    "static/media/Line 7.b823421b.svg": "/uxc-team/static/media/Line 7.b823421b.svg",
+    "static/media/Line 8.e863fb25.svg": "/uxc-team/static/media/Line 8.e863fb25.svg",
+    "static/media/app.sass": "/uxc-team/static/media/MADE Canvas Light PERSONAL USE.48f75e28.otf",
+    "static/media/Rectangle 10.1f4cee3f.png": "/uxc-team/static/media/Rectangle 10.1f4cee3f.png",
+    "static/media/Rectangle 11.7540b5f7.png": "/uxc-team/static/media/Rectangle 11.7540b5f7.png",
+    "static/media/Rectangle 4.f4aefc87.png": "/uxc-team/static/media/Rectangle 4.f4aefc87.png",
+    "static/media/Rectangle 5.4fc32a3c.png": "/uxc-team/static/media/Rectangle 5.4fc32a3c.png",
+    "static/media/Rectangle 6.3d5d6d08.png": "/uxc-team/static/media/Rectangle 6.3d5d6d08.png",
+    "static/media/Rectangle 7.9eba39d8.png": "/uxc-team/static/media/Rectangle 7.9eba39d8.png",
+    "static/media/Rectangle 8.d17d154f.png": "/uxc-team/static/media/Rectangle 8.d17d154f.png",
+    "static/media/Rectangle 9.ea00833c.png": "/uxc-team/static/media/Rectangle 9.ea00833c.png",
+    "static/media/arrow-selector.1fc73d7f.svg": "/uxc-team/static/media/arrow-selector.1fc73d7f.svg",
+    "static/media/arrow-to-bottom.9f0f6201.svg": "/uxc-team/static/media/arrow-to-bottom.9f0f6201.svg",
+    "static/media/arrow-to-right.7e7f8a0e.svg": "/uxc-team/static/media/arrow-to-right.7e7f8a0e.svg",
+    "static/media/logo.c6104aa2.svg": "/uxc-team/static/media/logo.c6104aa2.svg",
+    "static/media/market-small.81c75d63.svg": "/uxc-team/static/media/market-small.81c75d63.svg",
+    "static/media/market.146be9c1.svg": "/uxc-team/static/media/market.146be9c1.svg",
+    "static/media/master-card.baa0c0c8.svg": "/uxc-team/static/media/master-card.baa0c0c8.svg",
+    "static/media/search.ac87ff97.svg": "/uxc-team/static/media/search.ac87ff97.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c5d13b6.js",
+    "static/js/2.ce2e1312.chunk.js",
+    "static/css/main.fd918add.chunk.css",
+    "static/js/main.e4e7c0e8.chunk.js"
+  ]
+}
