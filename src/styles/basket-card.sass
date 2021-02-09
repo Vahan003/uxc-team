@@ -1,0 +1,41 @@
+$text-color: #780202
+$data-background: #EEEEEE
+.basket-card
+    position: relative
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    margin: 0 12rem 0 0.55rem
+    width: 23.56rem
+    max-height: 25.35rem
+    .basket-card-image
+        width: 23.56rem
+        z-index: 1
+    .card-data
+        position: absolute
+        right: -50%
+        display: flex
+        flex-direction: column
+        align-items: center
+        background-color: $data-background
+        width: 18.56rem
+        height: 9rem
+        z-index: 2
+        .name
+            font-size: 1.125rem
+            font-weight: 600
+            padding: 1.8rem 0 0.9rem 0
+        .price
+            font-size: 1.5rem
+            color: $text-color
+        .buy-button
+            position: absolute
+            bottom: -15%
+            display: flex
+            background-color: $text-color
+            color: #fff
+            font-size: 1.125rem
+            padding: 1.25rem 4.18rem
+            cursor: pointer
+
