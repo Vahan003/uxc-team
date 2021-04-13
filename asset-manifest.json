@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/uxc-team/static/css/main.fd918add.chunk.css",
-    "main.js": "/uxc-team/static/js/main.e4e7c0e8.chunk.js",
-    "main.js.map": "/uxc-team/static/js/main.e4e7c0e8.chunk.js.map",
+    "main.js": "/uxc-team/static/js/main.4122687e.chunk.js",
+    "main.js.map": "/uxc-team/static/js/main.4122687e.chunk.js.map",
     "runtime-main.js": "/uxc-team/static/js/runtime-main.7c5d13b6.js",
     "runtime-main.js.map": "/uxc-team/static/js/runtime-main.7c5d13b6.js.map",
     "static/js/2.ce2e1312.chunk.js": "/uxc-team/static/js/2.ce2e1312.chunk.js",
@@ -15,14 +15,14 @@
     "static/media/Line 7.b823421b.svg": "/uxc-team/static/media/Line 7.b823421b.svg",
     "static/media/Line 8.e863fb25.svg": "/uxc-team/static/media/Line 8.e863fb25.svg",
     "static/media/app.sass": "/uxc-team/static/media/MADE Canvas Light PERSONAL USE.48f75e28.otf",
-    "static/media/Rectangle 10.1f4cee3f.png": "/uxc-team/static/media/Rectangle 10.1f4cee3f.png",
-    "static/media/Rectangle 11.7540b5f7.png": "/uxc-team/static/media/Rectangle 11.7540b5f7.png",
-    "static/media/Rectangle 4.f4aefc87.png": "/uxc-team/static/media/Rectangle 4.f4aefc87.png",
-    "static/media/Rectangle 5.4fc32a3c.png": "/uxc-team/static/media/Rectangle 5.4fc32a3c.png",
-    "static/media/Rectangle 6.3d5d6d08.png": "/uxc-team/static/media/Rectangle 6.3d5d6d08.png",
-    "static/media/Rectangle 7.9eba39d8.png": "/uxc-team/static/media/Rectangle 7.9eba39d8.png",
-    "static/media/Rectangle 8.d17d154f.png": "/uxc-team/static/media/Rectangle 8.d17d154f.png",
-    "static/media/Rectangle 9.ea00833c.png": "/uxc-team/static/media/Rectangle 9.ea00833c.png",
+    "static/media/Rectangle 10.c9c71131.png": "/uxc-team/static/media/Rectangle 10.c9c71131.png",
+    "static/media/Rectangle 11.4add3f1c.png": "/uxc-team/static/media/Rectangle 11.4add3f1c.png",
+    "static/media/Rectangle 4.46076b68.png": "/uxc-team/static/media/Rectangle 4.46076b68.png",
+    "static/media/Rectangle 5.9a8a7daa.png": "/uxc-team/static/media/Rectangle 5.9a8a7daa.png",
+    "static/media/Rectangle 6.a6b8b6dc.png": "/uxc-team/static/media/Rectangle 6.a6b8b6dc.png",
+    "static/media/Rectangle 7.9f46796c.png": "/uxc-team/static/media/Rectangle 7.9f46796c.png",
+    "static/media/Rectangle 8.e021d503.png": "/uxc-team/static/media/Rectangle 8.e021d503.png",
+    "static/media/Rectangle 9.6b23ec51.png": "/uxc-team/static/media/Rectangle 9.6b23ec51.png",
     "static/media/arrow-selector.1fc73d7f.svg": "/uxc-team/static/media/arrow-selector.1fc73d7f.svg",
     "static/media/arrow-to-bottom.9f0f6201.svg": "/uxc-team/static/media/arrow-to-bottom.9f0f6201.svg",
     "static/media/arrow-to-right.7e7f8a0e.svg": "/uxc-team/static/media/arrow-to-right.7e7f8a0e.svg",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.7c5d13b6.js",
     "static/js/2.ce2e1312.chunk.js",
     "static/css/main.fd918add.chunk.css",
-    "static/js/main.e4e7c0e8.chunk.js"
+    "static/js/main.4122687e.chunk.js"
   ]
 }
